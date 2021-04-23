@@ -1,5 +1,5 @@
 <?php
-define('BOT_TOKEN', 'TOKEN');
+define('1768920697:AAEwQQH-CmlCi_ZUkapfk89RQ0KU10Y2Mmc', '610569681');
 
 function lSDKl($method, $parameters)
 {
